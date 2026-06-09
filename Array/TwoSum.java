@@ -1,7 +1,4 @@
-package Array;
-
-import java.util.HashMap;
-
+import java.util.*;
 public class TwoSum {
     //Solution 1: Brute Force
     public static int[] Solution1(int[] nums, int target) {
